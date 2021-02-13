@@ -1,0 +1,22 @@
+body {
+	background: WhiteSmoke;
+	font-family: 'Ubuntu', sans-serif;
+	color: #0f383e;
+	text-align: center;
+	overflow: hidden;
+}
+
+h2{
+    font-family: 'Ubuntu', sans-serif;
+    text-align: center;  
+    padding: 12px 20px;
+}
+
+input, button{
+    font-family: 'Ubuntu', sans-serif;
+    text-align: center;
+    padding: 12px 20px;
+    width: 150px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
